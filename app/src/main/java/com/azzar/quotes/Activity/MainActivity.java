@@ -1,8 +1,10 @@
-package com.azzar.quotes;
+package com.azzar.quotes.Activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.azzar.quotes.R;
 
 public class MainActivity extends AppCompatActivity {
 
