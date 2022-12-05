@@ -11,4 +11,5 @@ public interface APIRequestData {
 
     @GET("quotes")
     Call<List<QuotesModel>> requestData();
+
 }
